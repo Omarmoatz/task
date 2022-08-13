@@ -1,24 +1,24 @@
 #firstSetOfTasks
 ------------------------
 #Create a Boolean variable named x
-1- x=true
+#1- x=true
 # Create an integer variable named y
-2- y=5
+#2- y=5
 # Create a float variable named z
-3- z=2.7
+#3- z=2.7
 # Create a string variable names s
-4- s='ziad'
+#4- s='ziad'
 #Convert the int variable to float
-5- float(y)
+#5- float(y)
 #Can we convert the str to int ?  =>>yes;incase of reciving number as a string as in input() function
 # Create a list of numbers from 1 to 5
-7- num=[1,2,3,4,5]
+#7- num=[1,2,3,4,5]
 #Create a tuple from 10 to 15
-8- tuple=(10,11,12,13,14,15)
+#8- tuple=(10,11,12,13,14,15)
 # Convert the list to tuple
-numTuple=tuple(num)
+#numTuple=tuple(num)
 # Create a dict of 3 values
-{"product" : "oil" , "price" : 70 , "id" : "6642"}
+dic={"product" : "oil" , "price" : 70 , "id" : "6642"}
 # Can we use semi colon ; with python ? =>> yes for example if we want to sperate two or more commands
 # Python is interpreted or compiled ?   =>>interpreted
 # What is the differences between low level & high level =>> low level is used mostly in H.w related like machine luanguage and it is hard to understand from human prespictive while high level luanguages in the other hand is almost human luangue realy easy to understand and it useses an interpreter to translte the lines into machine luangue
