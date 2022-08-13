@@ -1,22 +1,22 @@
 #firstSetOfTasks
 ------------------------
 #Create a Boolean variable named x
-#1- x=true
+x=true
 # Create an integer variable named y
-#2- y=5
+ y=5
 # Create a float variable named z
-#3- z=2.7
+z=2.7
 # Create a string variable names s
-#4- s='ziad'
+s='ziad'
 #Convert the int variable to float
-#5- float(y)
+float(y)
 #Can we convert the str to int ?  =>>yes;incase of reciving number as a string as in input() function
 # Create a list of numbers from 1 to 5
-#7- num=[1,2,3,4,5]
+num=[1,2,3,4,5]
 #Create a tuple from 10 to 15
-#8- tuple=(10,11,12,13,14,15)
+tuple=(10,11,12,13,14,15)
 # Convert the list to tuple
-#numTuple=tuple(num)
+numTuple=tuple(num)
 # Create a dict of 3 values
 dic={"product" : "oil" , "price" : 70 , "id" : "6642"}
 # Can we use semi colon ; with python ? =>> yes for example if we want to sperate two or more commands
@@ -101,4 +101,5 @@ for num in list:
                 continue
         if return != "found"
         return -1
+
 
