@@ -1,9 +1,12 @@
 #firstSetOfTasks
-------------------------
+#------------------------
 #Create a Boolean variable named x
-x=true
+from cgi import print_directory
+
+
+x=True
 # Create an integer variable named y
- y=5
+y=5
 # Create a float variable named z
 z=2.7
 # Create a string variable names s
@@ -63,43 +66,31 @@ if 10 < 15 :
 #○ check to see if 4 in this list or not 
 list=[2,4,6,8,10]
 for num in list:
-	if num == 4:
-		return "found"
-	else:
-		continue
-	 if return != "found"
-        return -1
-
+        if num==4:
+                print("found")
+        else:
+                print("notFound")
 
 #○ check to see if 4 and 6 in this list on not
 list=[2,4,6,8,10]
 for num in list:
-        if num == 4 && 6:
-                return "found"
+        if num == 4 and 6:
+                 print("found")
         else:
-                continue
-	if return != "found"
-	return -1
-
+                print("notFound")
 
 #○ check to see if 3 or 6 in this list
 list=[2,4,6,8,10]
 for num in list:
         if num == 3 or 6:
-                return "found"
+                print("found")
         else:
-                continue
-        if return != "found"
-        return -1
+                print("NotFound")
 
 #○ check to see if 2 , 4 and 5 in this list 
 list=[2,4,6,8,10]
 for num in list:
         if num == all ([4,2,5]):
-                return "found"
+                print("found")
         else:
-                continue
-        if return != "found"
-        return -1
-
-
+                print("notFound")
