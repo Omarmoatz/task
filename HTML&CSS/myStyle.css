@@ -1,0 +1,127 @@
+*{
+    padding: 0px; 
+    margin: 0px;
+    box-sizing: border-box;
+    color: white;
+
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-color:#1A2436;
+}
+.navbar{
+    padding-top:1.5rem;
+    padding-left: 2.5rem;
+    padding-right:2rem;
+    border-bottom:1px solid white;
+    color: white;
+}
+.nav-item a{
+color: aliceblue;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.btu{
+    background-color:#1A2436 ;
+    border-radius: 50px;
+    padding: 0.8rem 1.5rem;
+    margin-left: 4rem;
+    font-weight: bold;
+    
+}
+p{
+    text-align: center;
+    color: #65f791;
+    font-family: roboto,Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 10rem;
+    padding-bottom: 2rem;
+}
+#ult{
+    margin-top: -10px;
+    text-align: center;
+    color: #fff;
+    font-family: roboto,Sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 60px
+}
+.link{
+    background-image: linear-gradient(to bottom, #78f88c, #45f8a7);
+    background-image: linear-gradient(to bottom, #78f88c, #45f8a7);
+    /* padding: 10px; */
+    border-radius: 60px;
+    color: #fff !important;
+    font-size: 14px;
+    font-weight: bold;
+    color: #00000a !important;
+    height: 70px;
+    line-height: 70px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    position: relative;
+    padding-right: 40px;
+    opacity: 0.95;
+    text-decoration: none;
+    margin-left: 40rem;
+}
+.link span{
+    color: #00000a;
+    border-radius: 50%;
+    background: #d8ffef;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+    line-height: 60px;
+    margin-left: 6px;
+    /* float: right; */
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 24px;
+    font-weight: bold;
+}
+#sv{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;     
+    color: white;
+    margin-top: 2rem;
+}
+.sec{
+background-color: white;
+width: 100%;
+height: 50vh;
+}
+#zz{
+    text-align: center;
+    color: #2158ce;
+    font-family: roboto,Sans-serif;
+    font-size: 14px;
+
+}
+.el{
+    border-bottom: 0.12px solid black ;
+    margin-left:25rem ;
+    color: #1b2836;
+    font-family: roboto,Sans-serif;
+    font-size: 42px;
+    font-weight: 700
+    
+
+}
+#ll{
+    ext-align: center;
+    color: #76818d;
+    font-family: roboto,Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
